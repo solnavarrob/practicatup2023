@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Conservación de los recuerdos 
-=======
-Conservación de los recuerdos (Julio Cortázar)
->>>>>>> 52566ef69708c99fa6d726214e41b8bc55fb9c6f
+Conservación de los recuerdos (Julio Cortazar)
 
 Los famas para conservar sus recuerdos proceden a
 embalsamarlos en la siguiente forma: Luego de fijado
@@ -20,10 +16,4 @@ ordenadas y silenciosas, mientras en las de los cronopios
 hay gran bulla y puertas que golpean. Los vecinos se
 quejan siempre de los cronopios, y los famas mueven la
 cabeza comprensivamente y van a ver si las etiquetas
-<<<<<<< HEAD
 están todas en su sitio.
-
-(Julio Cortázar)
-=======
-están todas en su sitio.
->>>>>>> 52566ef69708c99fa6d726214e41b8bc55fb9c6f
